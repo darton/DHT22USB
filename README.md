@@ -18,6 +18,10 @@ DHT22 [i2c] <------> [i2C] RPi Pico [USB] <--------------> RPi [USB]
 
 Select proper USB port number in RPiMS configuration.
 
+## Usefull links
+
+* [Micropython DHT22](https://github.com/danjperron/PicoDHT22/blob/main/DHT22.py)
+* [Raspberry Pi Pico -- DHT22 (AM2302) Temperature Sensor -- OLED Display](https://www.instructables.com/Raspberry-Pi-Pico-DHT22-AM2302-Temperature-Sensor-/)
 
 ## B.o.M - Bill of Materials
 
