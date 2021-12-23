@@ -17,6 +17,17 @@ DHT22 <------> RPi Pico [USB] <--------------> RPi [USB]
 ```
 Select proper USB port number in RPiMS configuration.
 
+Output data format:
+
+type of sensor, temperature value, temperature unit, humidity value, humidity unit, factor
+
+The factor indicates by how much the read value should be divided
+
+example 
+
+DHT22 247 °C 201 % 10
+
+
 ## Usefull links
 
 * [Micropython DHT22](https://github.com/danjperron/PicoDHT22/blob/main/DHT22.py)
