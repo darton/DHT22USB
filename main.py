@@ -17,4 +17,4 @@ while True:
         print(sid,t,'°C',h,'%', 10)
     else:
         print(' SENSOR ERROR')
-    sleep_ms(2000)
+    sleep_ms(1000)
