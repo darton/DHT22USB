@@ -32,6 +32,7 @@ DHT22 247 °C 201 % 10
 
 * [Micropython DHT22](https://github.com/danjperron/PicoDHT22/blob/main/DHT22.py)
 * [Raspberry Pi Pico -- DHT22 (AM2302) Temperature Sensor -- OLED Display](https://www.instructables.com/Raspberry-Pi-Pico-DHT22-AM2302-Temperature-Sensor-/)
+* [DHT111 and DHT22 tutorial](https://lastminuteengineers.com/dht11-dht22-arduino-tutorial/)
 
 ## B.o.M - Bill of Materials
 
